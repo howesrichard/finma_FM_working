@@ -1,6 +1,6 @@
 symbol,company,sector,industry,market_cap,pe_ratio,dividend_yield
-AAPL,Apple Inc.,Technology,Consumer Electronics,3000.5,28.5,0.5
-MSFT,Microsoft Corporation,Technology,Software,2800.2,32.1,0.7
+AAPL,Apple Inc.,Technology,Consumer Electronics,1000.5,28.5,0.5
+MSFT,Microsoft Corporation,Technology,Software,800.2,32.1,0.7
 GOOGL,Alphabet Inc.,Technology,Internet Services,1750.8,25.4,0.0
 AMZN,Amazon.com Inc.,Technology,E-commerce,1650.3,45.2,0.0
 TSLA,Tesla Inc.,Technology,Electric Vehicles,850.7,75.8,0.0
@@ -11,7 +11,7 @@ BAC,Bank of America Corp,Financials,Banking,325.4,11.5,2.8
 WFC,Wells Fargo & Company,Financials,Banking,180.2,10.2,2.5
 JNJ,Johnson & Johnson,Healthcare,Pharmaceuticals,425.8,16.4,2.6
 PFE,Pfizer Inc.,Healthcare,Pharmaceuticals,280.3,13.7,3.2
-UNH,UnitedHealth Group Inc.,Healthcare,Health Insurance,520.9,24.1,1.3
+UNH,UnitedHealth Group Inc.,Healthcare,Health Insurance,50520.9,24.1,1.3
 XOM,Exxon Mobil Corporation,Energy,Oil & Gas,450.2,14.8,5.8
 CVX,Chevron Corporation,Energy,Oil & Gas,320.7,15.2,3.1
 COP,ConocoPhillips,Energy,Oil & Gas,140.5,12.3,2.0
